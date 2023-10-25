@@ -3,9 +3,9 @@ Nama Buah
 - Apel
 - Jeruk
 - Lemon
-- Semangka
 - Blueberry
 - Mangga
+- Pisang
 
 Nama Orang
 - Asep
