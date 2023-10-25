@@ -6,3 +6,8 @@ Nama Buah
 - Semangka
 - Blueberry
 - Mangga
+
+Nama Orang
+- Asep
+- Panjul
+- Kurniawan
